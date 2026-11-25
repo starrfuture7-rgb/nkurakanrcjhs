@@ -1,0 +1,8 @@
+{
+  "name": "NKURAKAN R/C JHS",
+  "description": "Official educational portal for Nkurakan Roman Catholic Junior High School — Nkurakan, Yilo Krobo Municipality, Eastern Region, Ghana. Established 2008.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
